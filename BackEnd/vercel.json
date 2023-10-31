@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {"source": "/express", "destination": "/js-api/index.js"},
+      {"source": "/python", "destination": "/ApiComm/manage.py"}
+      
+    ]
+  }
+  
