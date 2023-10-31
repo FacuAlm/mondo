@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 
 // Ruta GET para /api/status
 app.get('/api/status', (req, res) => {
-  res.json({ status: 'API is up and running' });
+  res.json({ status: 'API is up and runninggg' });
 });
 
 app.listen(PORT, () => {
